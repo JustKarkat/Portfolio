@@ -1,0 +1,12 @@
+C:\Users\russe\source\repos\CSharpAssignment8\CSharpAssignment8\obj\Debug\CSharpAssignment8.csprojAssemblyReference.cache
+C:\Users\russe\source\repos\CSharpAssignment8\CSharpAssignment8\obj\Debug\CSharpAssignment8.Form1.resources
+C:\Users\russe\source\repos\CSharpAssignment8\CSharpAssignment8\obj\Debug\CSharpAssignment8.medical_concerns.resources
+C:\Users\russe\source\repos\CSharpAssignment8\CSharpAssignment8\obj\Debug\CSharpAssignment8.Properties.Resources.resources
+C:\Users\russe\source\repos\CSharpAssignment8\CSharpAssignment8\obj\Debug\CSharpAssignment8.csproj.GenerateResource.cache
+C:\Users\russe\source\repos\CSharpAssignment8\CSharpAssignment8\obj\Debug\CSharpAssignment8.csproj.CoreCompileInputs.cache
+C:\Users\russe\source\repos\CSharpAssignment8\CSharpAssignment8\bin\Debug\CSharpAssignment8.exe.config
+C:\Users\russe\source\repos\CSharpAssignment8\CSharpAssignment8\bin\Debug\CSharpAssignment8.exe
+C:\Users\russe\source\repos\CSharpAssignment8\CSharpAssignment8\bin\Debug\CSharpAssignment8.pdb
+C:\Users\russe\source\repos\CSharpAssignment8\CSharpAssignment8\obj\Debug\CSharpAssignment8.exe
+C:\Users\russe\source\repos\CSharpAssignment8\CSharpAssignment8\obj\Debug\CSharpAssignment8.pdb
+C:\Users\russe\source\repos\CSharpAssignment8\CSharpAssignment8\obj\Debug\CSharpAssignment8.CustomersList.resources

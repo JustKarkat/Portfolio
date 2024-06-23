@@ -1,0 +1,3 @@
+﻿  CHIP_8.cpp
+c:\users\russe\source\repos\chip-8 emulator\chip-8 emulator\chip_8.cpp(313): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CHIP-8 Emulator.vcxproj -> C:\Users\russe\source\repos\CHIP-8 Emulator\Debug\CHIP-8 Emulator.exe

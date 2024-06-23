@@ -1,0 +1,217 @@
+//*********************************************************************** 
+ //																		*
+ //		Assignment:		#2												*
+ //																		*
+ //		File:			Assignment2.cpp								    *
+ //																		*
+ //		Due Date:		31 January 2020									*
+ //																		*
+ //		Author:			Joshua Russell						          	*
+ //																		*
+ //		Course Name:	Programming II								    *
+ //																		*
+ //		Course Number:	COSC 1550										*
+ //																		*
+ //		Description:	Bubble sorts names from file		            *
+ //				and Searches for name					                        *
+ //                                                                     *
+ //     Other Necessary Files: StudentNames.txt                         *
+ //																		*
+ //***********************************************************************
+
+#include <iostream>
+#include <fstream>
+#include <string>
+using namespace std;
+
+const int SNUM = 10;
+
+//Prototypes
+void readNames(ifstream&, string[], int);
+void displayNames(const string[], int);
+int searchNames(const string[], int, const string&);
+void bubbleSort(string[], int);
+void bubbleSortDecending(string[], int);
+int binarySearchNames(const string[], int, const string&);
+void selectionSort(string[], int);
+void selectionSortDescending(string[], int);
+
+int main()
+{
+	string names[SNUM];
+	ifstream file("StudentNames.txt");
+	string input;
+	readNames(file, names, SNUM);
+	file.close();
+	displayNames(names, SNUM);
+	cout << "What name do you want to find: ";
+	getline(cin, input);
+	if (binarySearchNames(names, SNUM, input) == -1)
+	{
+		cout << input << " not found." << endl;
+	}
+	else {
+		cout << input << " was found." << endl;
+	}
+	/* removed to use Binary Search for Assignment 3
+	if (searchNames(names, SNUM, input) == -1)
+	{
+		cout << input << " not found." << endl;
+	}
+	else {
+		cout << input << " was found." << endl;
+	}
+	*/
+	cout << endl << "Sorted A-Z" << endl;
+	selectionSort(names, SNUM);
+	displayNames(names, SNUM);
+	cout << endl << "Sorted Z-A" << endl;
+	selectionSortDescending(names, SNUM);
+	displayNames(names, SNUM);
+	return 0;
+}
+//reads names from file
+void readNames(ifstream& inputFile, string names[], int numNames)
+{
+	for (int i = 0; i < numNames; i++)
+	{
+		getline(inputFile, names[i]);
+	}
+}
+//displays names from array
+void displayNames(const string names[], int numNames)
+{
+	for (int i = 0; i < numNames; i++)
+	{
+		cout << names[i] << endl;
+	}
+}
+//searches names
+int searchNames(const string names[], int numNames, const string& name)
+{
+	for (int i = 0; i < numNames; i++)
+	{
+		if (name == names[i])
+		{
+			return i;
+		}
+	}
+	return -1;
+}
+//Sorts via bubblesort (ascending)
+void bubbleSort(string names[], int numNames)
+{
+	string temp;
+	bool swap = true;
+	int index = 1;
+	do
+	{
+		swap = true;
+			for (int j = 0; j < numNames - 1; j++)
+			{
+				if (names[j] > names[j + 1])
+				{
+					temp = names[j];
+					names[j] = names[j + 1];
+					names[j + 1] = temp;
+					swap = false;
+				}
+			}
+		index++;
+	} while ((index < numNames) && (!swap));
+}
+//Sorts via bubblesort (decending)
+void bubbleSortDecending(string names[], int numNames)
+{
+	string temp;
+	bool swap = true;
+	int index = 1;
+	do
+	{
+		swap = true;
+		for (int j = 0; j < numNames - 1; j++)
+		{
+			if (names[j] < names[j + 1])
+			{
+				temp = names[j];
+				names[j] = names[j + 1];
+				names[j + 1] = temp;
+				swap = false;
+			}
+		}
+		index++;
+	} while ((index < numNames) && (!swap));
+}
+//Searches for input name via binary search algorithm.
+int binarySearchNames(const string names[], int numNames, const string& name)
+{
+	int index = 0;
+	bool found = false;
+	int leftIndex = 0;
+	int rightIndex = numNames;
+	int result = -1;
+	int middle;
+	do
+	{
+		middle = (rightIndex - leftIndex) / 2;
+		if (name == names[middle])
+		{
+			result = middle;
+			found = true;
+		}
+		else if (name > names[middle])
+		{
+			rightIndex = middle;
+		}
+		else
+		{
+			leftIndex = middle;
+		}
+		index++;
+	} while ((index < numNames) && (!found));
+	return result;
+}
+//Sorts array via selection sort algorithm (ascending).
+void selectionSort(string names[], int numNames)
+{
+	int index = 0;
+	bool swap = false;
+	string temp = names[index];
+	do
+	{
+		swap = true;
+		for (int i = index + 1; i < (numNames); i++)
+		{
+			if (names[index] > names[i])
+			{
+				temp = names[i];
+				names[i] = names[index];
+				names[index] = temp;
+				swap = false;
+			}
+		}
+		index++;
+	} while ((index < numNames) && (!swap));
+}
+//Sorts array via selection sort algorithm (descending).
+void selectionSortDescending(string names[], int numNames)
+{
+	int index = numNames;
+	bool swap = false;
+	string temp = names[index];
+	do
+	{
+		swap = true;
+		for (int i = index - 1; i < 0; i++)
+		{
+			if (names[index] < names[i])
+			{
+				temp = names[i];
+				names[i] = names[index];
+				names[index] = temp;
+				swap = false;
+			}
+		}
+		index++;
+	} while ((index < numNames) && (!swap));
+}

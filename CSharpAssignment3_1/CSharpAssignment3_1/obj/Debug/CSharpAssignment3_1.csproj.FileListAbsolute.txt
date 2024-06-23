@@ -1,0 +1,10 @@
+C:\Users\russe\source\repos\CSharpAssignment3_1\CSharpAssignment3_1\bin\Debug\CSharpAssignment3_1.exe.config
+C:\Users\russe\source\repos\CSharpAssignment3_1\CSharpAssignment3_1\bin\Debug\CSharpAssignment3_1.exe
+C:\Users\russe\source\repos\CSharpAssignment3_1\CSharpAssignment3_1\bin\Debug\CSharpAssignment3_1.pdb
+C:\Users\russe\source\repos\CSharpAssignment3_1\CSharpAssignment3_1\obj\Debug\CSharpAssignment3_1.csprojAssemblyReference.cache
+C:\Users\russe\source\repos\CSharpAssignment3_1\CSharpAssignment3_1\obj\Debug\CSharpAssignment3_1.Form1.resources
+C:\Users\russe\source\repos\CSharpAssignment3_1\CSharpAssignment3_1\obj\Debug\CSharpAssignment3_1.Properties.Resources.resources
+C:\Users\russe\source\repos\CSharpAssignment3_1\CSharpAssignment3_1\obj\Debug\CSharpAssignment3_1.csproj.GenerateResource.cache
+C:\Users\russe\source\repos\CSharpAssignment3_1\CSharpAssignment3_1\obj\Debug\CSharpAssignment3_1.csproj.CoreCompileInputs.cache
+C:\Users\russe\source\repos\CSharpAssignment3_1\CSharpAssignment3_1\obj\Debug\CSharpAssignment3_1.exe
+C:\Users\russe\source\repos\CSharpAssignment3_1\CSharpAssignment3_1\obj\Debug\CSharpAssignment3_1.pdb

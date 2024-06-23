@@ -1,0 +1,5 @@
+﻿  Assignment 13.cpp
+c:\users\russe\source\repos\assignment 13\assignment 13\assignment 13.cpp(37): warning C4244: '=': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\russe\source\repos\assignment 13\assignment 13\assignment 13.cpp(40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\russe\source\repos\assignment 13\assignment 13\assignment 13.cpp(41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Assignment 13.vcxproj -> C:\Users\russe\source\repos\Assignment 13\Debug\Assignment 13.exe

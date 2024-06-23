@@ -1,0 +1,11 @@
+C:\Users\russe\source\repos\CSharpAssignment10\CSharpAssignment10\obj\Debug\CSharpAssignment10.csprojAssemblyReference.cache
+C:\Users\russe\source\repos\CSharpAssignment10\CSharpAssignment10\obj\Debug\CSharpAssignment10.mainForm.resources
+C:\Users\russe\source\repos\CSharpAssignment10\CSharpAssignment10\obj\Debug\CSharpAssignment10.Properties.Resources.resources
+C:\Users\russe\source\repos\CSharpAssignment10\CSharpAssignment10\obj\Debug\CSharpAssignment10.csproj.GenerateResource.cache
+C:\Users\russe\source\repos\CSharpAssignment10\CSharpAssignment10\obj\Debug\CSharpAssignment10.csproj.CoreCompileInputs.cache
+C:\Users\russe\source\repos\CSharpAssignment10\CSharpAssignment10\bin\Debug\CSharpAssignment10.exe.config
+C:\Users\russe\source\repos\CSharpAssignment10\CSharpAssignment10\bin\Debug\CSharpAssignment10.exe
+C:\Users\russe\source\repos\CSharpAssignment10\CSharpAssignment10\bin\Debug\CSharpAssignment10.pdb
+C:\Users\russe\source\repos\CSharpAssignment10\CSharpAssignment10\obj\Debug\CSharpAssignment10.exe
+C:\Users\russe\source\repos\CSharpAssignment10\CSharpAssignment10\obj\Debug\CSharpAssignment10.pdb
+C:\Users\russe\source\repos\CSharpAssignment10\CSharpAssignment10\obj\Debug\CSharpAssignment10.FlightInfo.resources

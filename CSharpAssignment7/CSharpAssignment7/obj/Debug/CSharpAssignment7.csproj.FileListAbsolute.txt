@@ -1,0 +1,10 @@
+C:\Users\russe\source\repos\CSharpAssignment7\CSharpAssignment7\bin\Debug\CSharpAssignment7.exe.config
+C:\Users\russe\source\repos\CSharpAssignment7\CSharpAssignment7\bin\Debug\CSharpAssignment7.exe
+C:\Users\russe\source\repos\CSharpAssignment7\CSharpAssignment7\bin\Debug\CSharpAssignment7.pdb
+C:\Users\russe\source\repos\CSharpAssignment7\CSharpAssignment7\obj\Debug\CSharpAssignment7.csprojAssemblyReference.cache
+C:\Users\russe\source\repos\CSharpAssignment7\CSharpAssignment7\obj\Debug\CSharpAssignment7.Form1.resources
+C:\Users\russe\source\repos\CSharpAssignment7\CSharpAssignment7\obj\Debug\CSharpAssignment7.Properties.Resources.resources
+C:\Users\russe\source\repos\CSharpAssignment7\CSharpAssignment7\obj\Debug\CSharpAssignment7.csproj.GenerateResource.cache
+C:\Users\russe\source\repos\CSharpAssignment7\CSharpAssignment7\obj\Debug\CSharpAssignment7.csproj.CoreCompileInputs.cache
+C:\Users\russe\source\repos\CSharpAssignment7\CSharpAssignment7\obj\Debug\CSharpAssignment7.exe
+C:\Users\russe\source\repos\CSharpAssignment7\CSharpAssignment7\obj\Debug\CSharpAssignment7.pdb

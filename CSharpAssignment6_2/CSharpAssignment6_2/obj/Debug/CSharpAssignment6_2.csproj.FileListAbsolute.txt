@@ -1,0 +1,10 @@
+C:\Users\russe\source\repos\CSharpAssignment6_2\CSharpAssignment6_2\bin\Debug\CSharpAssignment6_2.exe.config
+C:\Users\russe\source\repos\CSharpAssignment6_2\CSharpAssignment6_2\bin\Debug\CSharpAssignment6_2.exe
+C:\Users\russe\source\repos\CSharpAssignment6_2\CSharpAssignment6_2\bin\Debug\CSharpAssignment6_2.pdb
+C:\Users\russe\source\repos\CSharpAssignment6_2\CSharpAssignment6_2\obj\Debug\CSharpAssignment6_2.Form1.resources
+C:\Users\russe\source\repos\CSharpAssignment6_2\CSharpAssignment6_2\obj\Debug\CSharpAssignment6_2.Properties.Resources.resources
+C:\Users\russe\source\repos\CSharpAssignment6_2\CSharpAssignment6_2\obj\Debug\CSharpAssignment6_2.csproj.GenerateResource.cache
+C:\Users\russe\source\repos\CSharpAssignment6_2\CSharpAssignment6_2\obj\Debug\CSharpAssignment6_2.csproj.CoreCompileInputs.cache
+C:\Users\russe\source\repos\CSharpAssignment6_2\CSharpAssignment6_2\obj\Debug\CSharpAssignment6_2.exe
+C:\Users\russe\source\repos\CSharpAssignment6_2\CSharpAssignment6_2\obj\Debug\CSharpAssignment6_2.pdb
+C:\Users\russe\source\repos\CSharpAssignment6_2\CSharpAssignment6_2\obj\Debug\CSharpAssignment6_2.csprojAssemblyReference.cache

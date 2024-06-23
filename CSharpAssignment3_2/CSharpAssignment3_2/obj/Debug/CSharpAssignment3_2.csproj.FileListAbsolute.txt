@@ -1,0 +1,9 @@
+C:\Users\russe\source\repos\CSharpAssignment3_2\CSharpAssignment3_2\bin\Debug\CSharpAssignment3_2.exe.config
+C:\Users\russe\source\repos\CSharpAssignment3_2\CSharpAssignment3_2\bin\Debug\CSharpAssignment3_2.exe
+C:\Users\russe\source\repos\CSharpAssignment3_2\CSharpAssignment3_2\bin\Debug\CSharpAssignment3_2.pdb
+C:\Users\russe\source\repos\CSharpAssignment3_2\CSharpAssignment3_2\obj\Debug\CSharpAssignment3_2.Form1.resources
+C:\Users\russe\source\repos\CSharpAssignment3_2\CSharpAssignment3_2\obj\Debug\CSharpAssignment3_2.Properties.Resources.resources
+C:\Users\russe\source\repos\CSharpAssignment3_2\CSharpAssignment3_2\obj\Debug\CSharpAssignment3_2.csproj.GenerateResource.cache
+C:\Users\russe\source\repos\CSharpAssignment3_2\CSharpAssignment3_2\obj\Debug\CSharpAssignment3_2.csproj.CoreCompileInputs.cache
+C:\Users\russe\source\repos\CSharpAssignment3_2\CSharpAssignment3_2\obj\Debug\CSharpAssignment3_2.exe
+C:\Users\russe\source\repos\CSharpAssignment3_2\CSharpAssignment3_2\obj\Debug\CSharpAssignment3_2.pdb

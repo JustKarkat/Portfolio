@@ -1,0 +1,9 @@
+C:\Users\russe\source\repos\CSharpAssignment5\CSharpAssignment5\obj\Debug\CSharpAssignment5.Properties.Resources.resources
+C:\Users\russe\source\repos\CSharpAssignment5\CSharpAssignment5\obj\Debug\CSharpAssignment5.csproj.GenerateResource.cache
+C:\Users\russe\source\repos\CSharpAssignment5\CSharpAssignment5\obj\Debug\CSharpAssignment5.csproj.CoreCompileInputs.cache
+C:\Users\russe\source\repos\CSharpAssignment5\CSharpAssignment5\bin\Debug\CSharpAssignment5.exe.config
+C:\Users\russe\source\repos\CSharpAssignment5\CSharpAssignment5\bin\Debug\CSharpAssignment5.exe
+C:\Users\russe\source\repos\CSharpAssignment5\CSharpAssignment5\bin\Debug\CSharpAssignment5.pdb
+C:\Users\russe\source\repos\CSharpAssignment5\CSharpAssignment5\obj\Debug\CSharpAssignment5.Form1.resources
+C:\Users\russe\source\repos\CSharpAssignment5\CSharpAssignment5\obj\Debug\CSharpAssignment5.exe
+C:\Users\russe\source\repos\CSharpAssignment5\CSharpAssignment5\obj\Debug\CSharpAssignment5.pdb

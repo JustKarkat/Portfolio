@@ -1,0 +1,10 @@
+C:\Users\russe\source\repos\CSharpAssignment4\CSharpAssignment4\bin\Debug\CSharpAssignment4.exe.config
+C:\Users\russe\source\repos\CSharpAssignment4\CSharpAssignment4\bin\Debug\CSharpAssignment4.exe
+C:\Users\russe\source\repos\CSharpAssignment4\CSharpAssignment4\bin\Debug\CSharpAssignment4.pdb
+C:\Users\russe\source\repos\CSharpAssignment4\CSharpAssignment4\obj\Debug\CSharpAssignment4.csprojAssemblyReference.cache
+C:\Users\russe\source\repos\CSharpAssignment4\CSharpAssignment4\obj\Debug\CSharpAssignment4.Form1.resources
+C:\Users\russe\source\repos\CSharpAssignment4\CSharpAssignment4\obj\Debug\CSharpAssignment4.Properties.Resources.resources
+C:\Users\russe\source\repos\CSharpAssignment4\CSharpAssignment4\obj\Debug\CSharpAssignment4.csproj.GenerateResource.cache
+C:\Users\russe\source\repos\CSharpAssignment4\CSharpAssignment4\obj\Debug\CSharpAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\russe\source\repos\CSharpAssignment4\CSharpAssignment4\obj\Debug\CSharpAssignment4.exe
+C:\Users\russe\source\repos\CSharpAssignment4\CSharpAssignment4\obj\Debug\CSharpAssignment4.pdb

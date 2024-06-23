@@ -1,0 +1,4 @@
+﻿  CRC_JR.cpp
+c:\users\russe\source\repos\crc_jr\crc_jr\crc_jr.cpp(237): warning C4018: '<': signed/unsigned mismatch
+c:\users\russe\source\repos\crc_jr\crc_jr\crc_jr.cpp(444): warning C4018: '<': signed/unsigned mismatch
+  CRC_JR.vcxproj -> C:\Users\russe\source\repos\CRC_JR\Debug\CRC_JR.exe

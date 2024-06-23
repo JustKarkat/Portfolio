@@ -1,0 +1,10 @@
+C:\Users\russe\source\repos\Desktoptest\Desktoptest\bin\Debug\Desktoptest.exe.config
+C:\Users\russe\source\repos\Desktoptest\Desktoptest\bin\Debug\Desktoptest.exe
+C:\Users\russe\source\repos\Desktoptest\Desktoptest\bin\Debug\Desktoptest.pdb
+C:\Users\russe\source\repos\Desktoptest\Desktoptest\obj\Debug\Desktoptest.csprojAssemblyReference.cache
+C:\Users\russe\source\repos\Desktoptest\Desktoptest\obj\Debug\Desktoptest.Form1.resources
+C:\Users\russe\source\repos\Desktoptest\Desktoptest\obj\Debug\Desktoptest.Properties.Resources.resources
+C:\Users\russe\source\repos\Desktoptest\Desktoptest\obj\Debug\Desktoptest.csproj.GenerateResource.cache
+C:\Users\russe\source\repos\Desktoptest\Desktoptest\obj\Debug\Desktoptest.csproj.CoreCompileInputs.cache
+C:\Users\russe\source\repos\Desktoptest\Desktoptest\obj\Debug\Desktoptest.exe
+C:\Users\russe\source\repos\Desktoptest\Desktoptest\obj\Debug\Desktoptest.pdb

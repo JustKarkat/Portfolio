@@ -1,0 +1,21 @@
+10
+Steve Smith
+0,4/2/2020
+Sue Jones
+0,4/2/2020
+Li Ying
+90,11/11/2003
+Kun Joom
+10,4/20/2020
+Joe Bush
+0,4/2/2020
+Kim Long
+0,4/20/2020
+Fred Ring
+33.3,19/5/2019
+Frank Pearse
+20,4/20/2020
+Helen Hu
+0,4/2/2020
+Mark James
+100,12/12/2001
